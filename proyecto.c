@@ -62,3 +62,5 @@ void imprimir(struct Nodo* head)
 	}
 	printf("NULL\n"); // esto es innecesario, pero sirve para indicar el fin de la lista
 }
+
+// que onda putosss
